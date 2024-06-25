@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋<br/><br/>
+🌟 Joseph Isedowo | Java & Python Developer | Software Engineering Enthusiast<br/><br/>
+<h1>💫 About Me:</h1>
 
 
 📚 **A Graduate from York University** with a Honours Bachelor’s in Computer Science. my coursework encompassed a wide range of topics including Data Structures and Algorithms, as well as Software Design, Agile methodologies and Object-Oriented Programming.<br />
