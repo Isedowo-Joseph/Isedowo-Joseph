@@ -11,3 +11,9 @@ Hi there 👋<br/><br/>
 🤔**I’m looking for** help with deepnning my knowledge in cloud-native developement practices and optimizing Java applications for high scalability and efficiency. <br />
 💬**Ask me about** Java, Restful APIs, SQL, React, Spring Boot and transitioning projects from conception to deployment. I'm also happy to share my experience with perfomance testing and system optimization.
 ⚡**Fun Fact:** Use openleaf, latex editor to create reports and documentation.
+
+
+
+<hr/>
+
+[![](https://visitcount.itsvg.in/api?id=Isedowo-Joseph&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
