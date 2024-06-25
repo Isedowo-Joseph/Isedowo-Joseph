@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--
-**Isedowo-Joseph/Isedowo-Joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 *A Graduate from York University* with a Honours Bachelor’s in Computer Science. my coursework encompassed a wide range of topics including Data Structures and Algorithms, as well as Software Design, Agile methodologies and Object-Oriented Programming.
 
-Here are some ideas to get you started:
+💼 My Professional Experience:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
